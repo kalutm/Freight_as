@@ -1,16 +1,44 @@
-# freight_ui_assignment
+🚚 Freight Search UI – Flutter Assignment
+This is a Flutter UI assignment for an internship application. The goal was to replicate a Figma design exactly in terms of:
 
-A new Flutter project.
+🎨 Color
+📐 UI Design
+📏 Spacing & Alignment
+🔤 Text Color & Font
+🟦 Border Styles
+🔘 Icons
+📸 Final Design Preview
+The design was implemented by referring to the following Figma link: Figma Design
 
-## Getting Started
+📱 Tech Stack
+Flutter (UI toolkit)
+Dart (programming language)
+Material Icons & Widgets
+🧪 Features
+Fully responsive and scrollable layout
+Clean and consistent design
+All fields are functional: dropdowns, toggles, checkboxes, date picker
+Replicated according to the visual structure of the Figma file
+▶️ Demo Video
+📹 A video demonstration of the app is included below.
 
-This project is a starting point for a Flutter application.
+🎥 Video URL: [Your Loom / YouTube / Drive Link Here]
 
-A few resources to get you started if this is your first Flutter project:
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/kalutm/Freight_as.git
+cd Freight_as
+2. Get dependencies
+flutter pub get
+2. Run the app
+flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Project Structure
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+lib/ ├── main.dart # Contains the entire UI
+
+This is a standalone single-screen Flutter app. No additional assets or external packages were required.
+
+👤 Author Kaleb Tesfahun Taye
+
+GitHub: @kalutm
